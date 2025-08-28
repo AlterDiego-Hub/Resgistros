@@ -12,11 +12,10 @@
 <br><br>
 
 - :school: I am `Diego`  tengo 17 años y actualmente estoy finalizando mi carrera como programador en el  [Liceo Francisco Araya Bennet ](https://share.google/pT54TgBh1S6fda4An)
-- :Cursos: Robotica y javascript Realizados en `CFT de viña del mar`, .
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- 🖥️ cursos: Robotica y javascript Realizados en `CFT de viña del mar`, .
+- : Programs: I am a competitive programmer at `Codeforces`, ``, `Pascal`, `DB.Brouser`, `HTML`.
 - :student: I’m currently learning ``.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
@@ -71,21 +70,3 @@
 
 Contacto
 Email: diegorks340@.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
