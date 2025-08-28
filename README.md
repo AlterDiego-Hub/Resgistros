@@ -12,7 +12,7 @@
 <br><br>
 
 - :school: I am `Diego`  tengo 17 años y actualmente estoy finalizando mi carrera como programador en el  [Liceo Francisco Araya Bennet ](https://share.google/pT54TgBh1S6fda4An)
-- :technologist: I love using Software as a solution for every `Problem`.
+- :`Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning ``.
 - :nerd_face: Always `learning new things`.
