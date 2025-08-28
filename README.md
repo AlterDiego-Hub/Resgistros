@@ -12,7 +12,7 @@
 <br><br>
 
 - :school: I am `Diego`  tengo 17 años y actualmente estoy finalizando mi carrera como programador en el  [Liceo Francisco Araya Bennet ](https://share.google/pT54TgBh1S6fda4An)
-- :`Problem`.
+- :Cursos: Robotica y javascript Realizados en `CFT de viña del mar`, .
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning ``.
 - :nerd_face: Always `learning new things`.
@@ -25,7 +25,6 @@
 	<a href="mailto:diegorks340@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></
-	<a href="https://www.instagram.com/vix_0_0/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
